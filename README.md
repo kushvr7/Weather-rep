@@ -46,7 +46,7 @@ Different PACKAGE and hooks use are :
 ### `REACT HOOKS`
   like : {useState} , {setState} , {useEffect}
 ### `RADIUM PACKAGE`
-  for inline styling of the components & allow <b>sudo selectors</b> to run in inline styling
+  for inline styling of the components & allow <b>sudo selectors</b> to run in inline styling<br/>
 
 <hr/>
 <br/>
